@@ -1,0 +1,32 @@
+.nav{
+    top: 0;
+    height: 12%;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    z-index: 1;
+}
+
+.nav ul{
+    margin-top: 1.5em;
+    margin-right: 5em;
+    float: right;
+    list-style: none;
+}
+
+.nav ul li{
+    margin-right: 2em;
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.nav h1{
+    float: left;
+    color: blue;
+    font-weight: bold;
+    font-size: 20pt;
+    padding-left: 2em;
+    margin-top: .5em;
+}
